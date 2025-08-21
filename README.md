@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tsk2302" alt="tsk2302" /></a> </p>
 
-- 👯 I’m looking to collaborate on **Digitaltwinning, CAD AUtomation, FullStack DEvelopment**
+- 👯 I’m looking to collaborate on **Digitaltwinning, CAD AUtomation, FullStack Development**
 
 - 💬 Ask me about **React, Python and Blender**
 
